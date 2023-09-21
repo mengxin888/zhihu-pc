@@ -1,0 +1,125 @@
+[
+    {
+        "id": "1",
+        "name": "精选公开课",
+        "tabs":"精选课程，发现学习好内容",
+        "list":[
+            {
+                "id": "1",
+                "title": "人人 AI",
+                "username": "吴恩达",
+                "useravatar":"v2-d41c2ceaed8f51999522f903672a521f_l.jpg",
+                "price":"",
+                "info":"共35节",
+                "img":"v2-e89a0eee2f61bba59b3fc27490a6adea.jpg"
+            },
+            {
+                "id": "2",
+                "title": "微软 Power BI 数据分析可视化入门",
+                "username": "微软科技",
+                "useravatar":"v2-d41c2ceaed8f51999522f903672a521f_l.jpg",
+                "price":"",
+                "info":"共 37 节",
+                "img":"v2-66412905d91ddad5f168365a12f6b27c.jpg"
+            },
+            {
+                "id": "3",
+                "title": "沈向洋带你读论文——CV & NLP 专题",
+                "username": "ReadPaper论文阅读",
+                "useravatar":"v2-d41c2ceaed8f51999522f903672a521f_l.jpg",
+                "price":"",
+                "info":"共 13 节",
+                "img":"v2-efd589af2fedac70368e40b801f5c63f.png"
+            },
+            {
+                "id": "4",
+                "title": "大语言模型最佳实践：从建构基础设施、训练到推理",
+                "username": "NVIDIA英伟达中国",
+                "useravatar":"v2-d41c2ceaed8f51999522f903672a521f_l.jpg",
+                "price":"",
+                "info":"共 13 节",
+                "img":"v2-4c9433f49254a578591762a8704966af.png"
+            },
+            {
+                "id": "5",
+                "title": "【清华 NLP X OpenBMB】大模型公开课｜带你从入门到实战",
+                "username": "OpenBMB",
+                "useravatar":"v2-d41c2ceaed8f51999522f903672a521f_l.jpg",
+                "price":"",
+                "info":"共 137 节",
+                "img":"v2-fe663a1f7cab3828fc093583e4fc7be7.jpg"
+            },
+            {
+                "id": "6",
+                "title": "PS 后期修图实战应用",
+                "username": "Thomas看看世界",
+                "useravatar":"v2-d41c2ceaed8f51999522f903672a521f_l.jpg",
+                "price":"",
+                "info":"共 20 节",
+                "img":"v2-fe663a1f7cab3828fc093583e4fc7be7.jpg"
+                
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "精品课",
+        "tabs":"专业课程 名师亲授 全方位服务",
+        "list":[
+            {
+                "id": "1",
+                "title": "知乎｜研职在线「小红书变现实战计划」",
+                "username": "白鹿",
+                "useravatar":"v2-d41c2ceaed8f51999522f903672a521f_l.jpg",
+                "price":"￥6980",
+                "info":"精品课",
+                "img":"v2-710ff545e7b308eadc8bf0ac4be5ddd1.jpg"
+            },
+            {
+                "id": "2",
+                "title": "程序员的AI大模型进阶之旅",
+                "username": "崔超",
+                "useravatar":"v2-d41c2ceaed8f51999522f903672a521f_l.jpg",
+                "price":"免费",
+                "info":"体验课",
+                "img":"v2-8f3919a7752112cc9f40886090deaaa0.jpg"
+            },
+            {
+                "id": "3",
+                "title": "三节课带你搞定软考备考难题",
+                "username": "李亚鹏",
+                "useravatar":"v2-d41c2ceaed8f51999522f903672a521f_l.jpg",
+                "price":"免费",
+                "info":"体验课",
+                "img":"v2-dc31ecf65cd1a3b9d37e7f8bc37f438b.png"
+            },
+            {
+                "id": "4",
+                "title": "AI 大模型全栈工程师培养计划（第2期）",
+                "username": "WANG",
+                "useravatar":"v2-d41c2ceaed8f51999522f903672a521f_l.jpg",
+                "price":"￥4680",
+                "info":"系统课",
+                "img":"v2-8f3919a7752112cc9f40886090deaaa0.jpg"
+            },
+            {
+                "id": "5",
+                "title": "高项-信息系统项目管理师【知学无忧通关班】",
+                "username": "张立台",
+                "useravatar":"v2-d41c2ceaed8f51999522f903672a521f_l.jpg",
+                "price":"￥3380",
+                "info":"系统课",
+                "img":"v2-9619c26c1d14173e41c6fd6a8dd03ac7.png"
+            },
+            {
+                "id": "6",
+                "title": "中项-系统集成项目管理工程师【知学无忧通关班】",
+                "username": "张立台",
+                "useravatar":"v2-d41c2ceaed8f51999522f903672a521f_l.jpg",
+                "price":"￥2380",
+                "info":"系统课",
+                "img":"v2-9619c26c1d14173e41c6fd6a8dd03ac7.png"
+            }
+        ]
+    }
+]

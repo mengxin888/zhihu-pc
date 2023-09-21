@@ -1,0 +1,22 @@
+$color:red;
+$backcolor:yellow;
+$height:100vh;
+@function random-color() {
+    $red: random(255);
+    $green: random(255);
+    $blue: random(255);
+    @return rgba($red, $green, $blue);
+  }
+// 集合
+$colors: (
+    "1":rgb(255, 207, 0),
+    "2":rgb(67, 212, 128),
+    "3":rgb(0, 102, 255),
+    "4":rgb(15, 136, 235),
+    "5":rgb(84, 120, 240),
+    "6":rgb(88, 104, 209)
+  );
+  @function random-backcolor($index) {
+    @return rgba(255, $index, 0);;
+    
+  }
